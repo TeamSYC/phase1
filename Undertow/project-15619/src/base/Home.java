@@ -42,7 +42,7 @@ public class Home {
 	}
 	
 	public static void main(String[] args) {
-		final String info = "SYC,8635-0832-4410\n";
+		final String info = "TeamSYC,8635-0832-4410\n";
 		final SimpleDateFormat fmt = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 		final String HOST = args[0];
 		final Home home = new Home();
